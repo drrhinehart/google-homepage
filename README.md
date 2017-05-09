@@ -1,1 +1,1 @@
-This is my first Odin Project. The goal is to create a webpage with my current knowledge of HTML and CSS. Let's see how it goes. 
+This is my first Odin Project. The goal is to create a webpage that replicates the google homepage with my current knowledge of HTML and CSS. Let's see how it goes. 
